@@ -1,2 +1,2 @@
 # estudos
-repositorio de estudos 
+repositorio de estudos, onde vou evoluindo publicamente!
